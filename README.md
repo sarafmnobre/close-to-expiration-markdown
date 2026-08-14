@@ -134,7 +134,7 @@ Python · Pandas · Scikit-learn · Power BI · DAX · Machine Learning · Data 
 
 Project Presentation
 
-The complete project presentation is available here:
+The complete project presentation is available here: PresentationMarkdownProgram_GitHub_SN.pdf
 
 
 
