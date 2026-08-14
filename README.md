@@ -1,4 +1,4 @@
-Close-to-Expiration Markdown 
+Close to Expiration Markdown 
 
 Data science project analysing markdown strategies for close-to-expiration products in grocery retail, with the objective of reducing waste while protecting gross margins.
 
